@@ -10166,14 +10166,14 @@ header.masthead h1 {
   opacity: 1;
 }
 
-#portfolioArt .container-fluid, #portfolioArt .container-sm, #portfolioArt .container-md, #portfolioArt .container-lg, #portfolioArt .container-xl {
+#portfolio450 .container-fluid, #portfolio450 .container-sm, #portfolio450 .container-md, #portfolio450 .container-lg, #portfolio450 .container-xl {
   max-width: 1920px;
 }
-#portfolioArt .container-fluid .portfolio-box, #portfolioArt .container-sm .portfolio-box, #portfolioArt .container-md .portfolio-box, #portfolioArt .container-lg .portfolio-box, #portfolioArt .container-xl .portfolio-box {
+#portfolio450 .container-fluid .portfolio-box, #portfolio450 .container-sm .portfolio-box, #portfolio450 .container-md .portfolio-box, #portfolio450 .container-lg .portfolio-box, #portfolio450 .container-xl .portfolio-box {
   position: relative;
   display: block;
 }
-#portfolioArt .container-fluid .portfolio-box .portfolio-box-caption, #portfolioArt .container-sm .portfolio-box .portfolio-box-caption, #portfolioArt .container-md .portfolio-box .portfolio-box-caption, #portfolioArt .container-lg .portfolio-box .portfolio-box-caption, #portfolioArt .container-xl .portfolio-box .portfolio-box-caption {
+#portfolio450 .container-fluid .portfolio-box .portfolio-box-caption, #portfolio450 .container-sm .portfolio-box .portfolio-box-caption, #portfolio450 .container-md .portfolio-box .portfolio-box-caption, #portfolio450 .container-lg .portfolio-box .portfolio-box-caption, #portfolio450 .container-xl .portfolio-box .portfolio-box-caption {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10189,16 +10189,16 @@ header.masthead h1 {
   transition: opacity 0.25s ease;
   text-align: center;
 }
-#portfolioArt .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolioArt .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolioArt .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolioArt .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolioArt .container-xl .portfolio-box .portfolio-box-caption .project-category {
+#portfolio450 .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio450 .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio450 .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio450 .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio450 .container-xl .portfolio-box .portfolio-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
-#portfolioArt .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolioArt .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolioArt .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolioArt .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolioArt .container-xl .portfolio-box .portfolio-box-caption .project-name {
+#portfolio450 .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolio450 .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolio450 .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolio450 .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolio450 .container-xl .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1.2rem;
 }
-#portfolioArt .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolioArt .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolioArt .container-md .portfolio-box:hover .portfolio-box-caption, #portfolioArt .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolioArt .container-xl .portfolio-box:hover .portfolio-box-caption {
+#portfolio450 .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio450 .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio450 .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio450 .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio450 .container-xl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
 
